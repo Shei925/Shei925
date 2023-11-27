@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shei925
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning codes
-- 💞️ I’m looking to collaborate on our class
+- 💞️ I’m looking to collaborate on making one
 - 📫 How to reach me (sheilou.abella@gmail.com)
 
 <!---
